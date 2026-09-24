@@ -1,4 +1,4 @@
-State,Average_Electricity_Price_Cents_kWh,Net_Generation_MWh,Retail_Sales_MWh
-California,27.04,214191383,245717145
-Texas,9.79,566502688,505431317
-Arizona,12.74,116026511,90843288
+State,Average_Electricity_Price_Cents_kWh,Net_Generation_MWh,Retail_Sales_MWh,Renewable_Generation_MWh
+California,27.04,214191383,245717145,108804000
+Texas,9.79,566502688,505431317,166530000
+Arizona,12.74,116026511,90843288,18860000
